@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @surajj2306
-- 👀 I’m interested in COding
+- 👀 I’m interested in COdiNg
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Laravel Developers
 - 📫 How to reach me ...
